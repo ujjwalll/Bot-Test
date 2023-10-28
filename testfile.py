@@ -1,7 +1,7 @@
 try:
   a = int(input())
   b = int(input())
-  result = a/b * 1000 + 13 + 8 - 9
+  result = a/b * 1000 + 13 + 8 - 9 + 10 + 1
   print(result)
 except:
   print("We caught an error")
