@@ -1,4 +1,4 @@
-class ScrollViewControllerTest: UIViewController {
+class ScrollViewControllerTestFinal: UIViewController {
 
     let scrollView = UIScrollView()
     let contentView = UIView()
